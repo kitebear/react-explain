@@ -7,5 +7,3 @@ var b = {
 }
 
 console.log(22321321311232)
-
-console.log(312321321)
