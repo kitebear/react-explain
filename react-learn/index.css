@@ -1,0 +1,24 @@
+body {padding:0;margin:0;color:#666;font-size:16px;font-family:tahoma,arial,sans-serif;}
+h1, h2, h3, h4, h5, h6, form, div, p, i, img, ul, li, ol, table, tr, td,th, fieldset, label, legend,button,input { margin:0;padding:0;}
+li{list-style:none;}
+a img{border:none;}
+a:link{text-decoration:none;color:#07519A;}
+a:visited{text-decoration:none;color:#07519A;}
+a:active,a:hover{text-decoration:underline;color:#07519A;}
+
+.m-title{
+    text-align: left;
+}
+
+.m-directory{
+    padding: 5px 0 0 35px;
+}
+
+.m-directory li{
+    font-size: 17px;
+    padding: 10px 0 5px 0;
+}
+
+body{
+    margin: 20px;
+}

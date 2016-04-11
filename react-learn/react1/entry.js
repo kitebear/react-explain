@@ -6,4 +6,5 @@ var b = {
     }
 }
 
-console.log(22321321311232)
+console.log(22322)
+//console.log(22322231231)
