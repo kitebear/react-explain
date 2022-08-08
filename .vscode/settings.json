@@ -1,0 +1,9 @@
+{
+    "fileheader.customMade": {
+        "Author": "kitebear",
+        "custom_string_obkoro1": "@Email：kitebear1314@gmail.com",
+        "Date": "Do not edit", // 设置后默认设置文件生成时间
+        "Description": "页面/组件/功能的描述",
+        "FilePath": "Do not edit" // 设置后，默认生成文件相对于项目的路径
+      },
+}
