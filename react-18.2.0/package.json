@@ -149,5 +149,6 @@
   },
   "resolutions": {
     "react-is": "npm:react-is"
-  }
+  },
+  "__npminstall_done": false
 }
